@@ -26,13 +26,13 @@ _Description_ :  This visualization shows results for Number of Rides, Gender Br
 
 <img width="1182" alt="Top Starting Locations" src="https://user-images.githubusercontent.com/95826875/161343782-08b5d202-4da9-4ca2-948f-21ce4d5de9a5.png">
 
-_Description_ : 
+_Description_ : This visualization shows the top locations for starting a bike journey among Citi Bike customers. The size of the circles and darkness of the color in the symbol map indicate the relative number of trips started at those locations. Apparently, most of the bike rides are starting from the lower Manhattan area.
 
 #### 3. Top Ending Locations
 
 <img width="1182" alt="Top Ending Locations" src="https://user-images.githubusercontent.com/95826875/161343897-1e6c3137-9a73-4b78-b4f7-7e54eacd73ac.png">
 
-_Description_ :
+_Description_ : This visualization shows the top ending locations for ending a bike journey among Citi Bike customers. The symbol map for both the _Top Starting Locations_ and _Top Ending Locations_ virtually looks the same, which suggest that the top starting location is also the the top ending location for the bike riders making it the busiest location among others.
 
 #### 4. August Peak Hours
 
