@@ -19,14 +19,14 @@ Visualizations for the NYC Citibike analysis:
 _Description_ :  This visualization shows results for Number of Rides, Gender Breakdown, and Customer Types.
 
                  - The total number of trips recorded during the month of August were 2,344,224.
-                 - The gender breakdown shows 225,521 'UNKNOWN' riders (red), 588,431 'FEMALE' riders (blue), and 1,530,272 'MALE' riders (orange).
-                 - The number of short-term customers (blue) and annual subscribers (orange) to the Citi Bike service were 443,865 and 1,900,359 respectively.
+                 - The gender breakdown pie chart shows 225,521 'UNKNOWN' riders (red), 588,431 'FEMALE' riders (blue), and 1,530,272 'MALE' riders (orange), which shows that Male riders are 65%, Female riders are 25% and the rest 10% are unknown riders approximately.
+                 - The number of short-term customers (blue) and annual subscribers (orange) to the Citi Bike service were 443,865 (~19%) and 1,900,359 (~81%) respectively.
 
 #### 2. Top Starting Locations
 
 <img width="1182" alt="Top Starting Locations" src="https://user-images.githubusercontent.com/95826875/161343782-08b5d202-4da9-4ca2-948f-21ce4d5de9a5.png">
 
-_Description_ :
+_Description_ : 
 
 #### 3. Top Ending Locations
 
@@ -38,7 +38,9 @@ _Description_ :
 
 <img width="1185" alt="August Peak Hours" src="https://user-images.githubusercontent.com/95826875/161343977-72019cc4-6b14-4d07-bb34-dcd0fd07d257.png">
 
-_Description_ :
+_Description_ : This visualization shows the peak usage hours for the month of August to help get a better idea of how many bikes might be needed in Des Moines, as well as to figure out during which parts of the day most bikes will be needed. Based on the bar chart, it seems that the top riding hours during August in New York City are from 5:00 p.m to 7:00 p.m. And based on the visualization, bike maintenance could be performed from 2:00 a.m. to 5:00 a.m.
+
+
 
 #### 5. Checkout Times for Users
 
