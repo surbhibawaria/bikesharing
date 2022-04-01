@@ -46,31 +46,31 @@ _Description_ : This visualization shows the peak usage hours for the month of A
 
 <img width="943" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/95826875/161344086-4c87e77d-c9f4-4361-a15e-6b77c0c0ca95.png">
 
-_Description_ : This visualization shows the length of time that bikes are checked out for all riders.
+_Description_ : This visualization shows the length of time that bikes are checked out for all riders. The line graph show that the vast majority of Citi Bike trips are under an hour in length.
 
 #### 6. Checkout Times by Gender
 
 <img width="1059" alt="Checkout Times by Gender" src="https://user-images.githubusercontent.com/95826875/161344138-d281e397-b364-458c-859b-ccca29f98bc8.png">
 
-_Description_ : This visualization shows the length of time that bikes are checked out for each gender.
+_Description_ : This visualization shows the length of time that bikes are checked out for each gender. The line graph with gender breakdown show that male riders take three times more rides than female riders. 
 
 #### 7. Trips by Weekday per Hour
 
 <img width="900" alt="Trips by Weekday per Hour" src="https://user-images.githubusercontent.com/95826875/161344193-a6af02ff-65db-4ef9-929e-907dcb3ef152.png">
 
-_Description_ : This visualization shows the number of bike trips by weekday for each hour of the day.
+_Description_ : This visualization shows the number of bike trips by weekday for each hour of the day. The heatmap shows that the Citi Bike are mostly active during the morning from 7:00 a.m. to 9:00 a.m., during the evening from 4:00 p.m. to 7:00 p.m. on weekdays and all day long on weekends.
 
 #### 8. Trips by Gender (Weekday per Hour)
 
 <img width="1261" alt="Trips by Gender (Weekday per Hour)" src="https://user-images.githubusercontent.com/95826875/161344605-f169e456-ecf0-4835-b305-6bceb3009bf7.png">
 
-_Description_ : This visualization shows the number of bike trips by gender for each hour of each day of the week.
+_Description_ : This visualization shows the number of bike trips by gender for each hour of each day of the week. Although the total numbers for males riders are higher than the female and other riders, the heatmap shows almost the same pattern as in _Trips Weekday per Hour_ regardless of the gender.
 
 #### 9. User Trips by Gender (by Weekday)
 
 <img width="1182" alt="User Trips by Gender (by Weekday)" src="https://user-images.githubusercontent.com/95826875/161344729-0172defa-6f68-49ef-87d1-fa33d2b76b9d.png">
 
-_Description_ : This visualization shows the number of bike trips broken down by gender for each day of the week by each Usertype.
+_Description_ : This visualization shows the number of bike trips broken down by gender for each day of the week by each Usertype. The heatmap shows how much of the Citi Bike userbase is predominated by Male Subscribers.
 
 
 ## Summary
