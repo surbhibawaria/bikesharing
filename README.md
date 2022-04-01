@@ -75,3 +75,8 @@ _Description_ : This visualization shows the number of bike trips broken down by
 
 ## Summary
 
+The visulaizations shows that the Citi Bike bike sharing program in New York during the month of August 2019, is higly active and a source of regular income to the program. The user base is made up mostly of Male subscribers active making majority of rides in lower Manhattan area, contributing a good amount of income to the program. Most of the rides were taken in the peak morning and evening hours, making it an alternative commute. In conclusion, based upon these outcomes, bike sharing will be a great success in Des Moines.
+
+Although these visualization gathered good amount of information for the analysis, but additional visualizations can be performed with the given dataset. For example:
+- Finding the correlation between the weather data and rides for different months to determine trends across the year.
+- Determining average trip duration with respect to gender and birth year to explore if there is any tren in male, female or unknown riders as they age.
