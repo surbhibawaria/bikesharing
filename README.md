@@ -83,4 +83,4 @@ Although these visualization gathered good amount of information for the analysi
 
 #### Link to Dashboard: 
 
-LINK GOES HERE  "https://public.tableau.com/app/profile/surbhi.bawaria/viz/NYCCitiBikeAnalysisStory/NYCCitiBikeAnalysisStory"
+LINK GOES HERE  "https://public.tableau.com/app/profile/surbhi.bawaria/viz/NYCCitiBikeAnalysis_16488587294270/NYCCitiBikeAnalysisStory"
