@@ -79,7 +79,7 @@ The visulaizations shows that the Citi Bike bike sharing program in New York dur
 
 Although these visualization gathered good amount of information for the analysis, but additional visualizations can be performed with the given dataset. For example:
 - Finding the correlation between the weather data and rides for different months to determine trends across the year.
-- Determining average trip duration with respect to gender and birth year to explore if there is any tren in male, female or unknown riders as they age.
+- Determining average trip duration with respect to gender and birth year to explore if there is any trend in male, female or unknown riders as they age.
 
 #### Link to Dashboard: 
 
